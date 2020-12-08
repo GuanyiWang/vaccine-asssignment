@@ -1,6 +1,6 @@
 # Who Should Get Vaccinated? Individualized Allocation of Vaccines Over SIR Network
 
-Replications file for "Who Should Get Vaccinated? Individualized Allocation of Vaccines Over SIR Network" by Toru Kitagawa and Guanyi Wang
+Replications file for "Who Should Get Vaccinated? Individualized Allocation of Vaccines Over SIR Network" by Toru Kitagawa (UCL) and Guanyi Wang (UCL)
 
 The files in this archive replicate the results reported in the "Simulation Exercises" section of the paper.
 
