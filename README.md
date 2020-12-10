@@ -25,25 +25,25 @@ Greedy: Greedy Algorithm
 - Greedy_samll_multi: The greedy algorithm for multiple (in here we choose 20) small networks.
 - obj.m : Objective Function
 
-Global_opt: Brute force serach
+Global_opt: Brute Force Serach
 
 - Global_search.m: The global optimal solution for a single small network.
 - Global_search_multi.m: The global optimal solution for multiple (in here we choose 20) small networks.
 - obj.m: Objective Function
 
-Random_Search: Random allocation rule
+Random_Search: Random Allocation Rule
 
 - Random_search.m: The random allocation rules for a single large network.
 - Random_search_multi.m:  The random allocation rules for multiple (in here we choose 20) large networks.
 - obj.m: Objective Function
 
-Allocation_nonet: Targeting without network information
+Allocation_nonet: Targeting Without Network Information
 
 - Allocation_without_network.m: The allocation rule without network information for a single large network.
 - Allocation_without_network_multi.m: The allocation rule without network information for multiple (in here we choose 20) large networks.
 - obj.m: Objective Function
 
-Graph: Draw the figure
+Graph: Draw The Figure
 
 - figure_compare_greedy_nonet.m: Draw the figure for the comparison between greedy algorithm and allocation without network information.
 - figure_compare_greedy_random.m: Draw the figure for the comparision between greedy algorithm and random allocation.
