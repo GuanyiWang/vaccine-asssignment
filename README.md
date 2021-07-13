@@ -50,4 +50,4 @@ Graph: Draw The Figure
 
 Vaccination Ratio: The ratio of vaccinated younger units
 
--ratio.m: Calculate the percentage of vaccinated younger units compare to the total vaccinate units.
+- ratio.m: Calculate the percentage of vaccinated younger units compare to the total vaccinate units.
