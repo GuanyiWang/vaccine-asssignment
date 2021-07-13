@@ -49,4 +49,5 @@ Graph: Draw The Figure
 - figure_compare_greedy_random.m: Draw the figure for the comparision between greedy algorithm and random allocation.
 
 Vaccination Ratio: The ratio of vaccinated younger units
+
 -ratio.m: Calculate the percentage of vaccinated younger units compare to the total vaccinate units.
