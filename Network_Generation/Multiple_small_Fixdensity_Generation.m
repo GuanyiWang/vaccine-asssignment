@@ -37,7 +37,7 @@ I_1(idx_state_1(round(P_s*N_1)+1:round(P_s*N_1+P_i*N_1)),:) = 1;%randomly genera
 R_1 = zeros(N_1,1);
 R_1(idx_state_1(round(P_s*N_1+P_i*N_1)+1:end),:) = 1;%randomly generate the recovered units with p_s
 
-%random allocate group for N = 200
+%random allocate group for N = 25
 P_y = 0.4;%probability of staying group 1
 idx_group_1 = randperm(N_1);
 a_1 = zeros(N_1,1);
@@ -45,7 +45,7 @@ a_1(idx_group_1(1:round(P_y*N_1)),:) = 1;%randomly generate the group 1 units wi
 b_1 = zeros(N_1,1);
 b_1(idx_group_1(round(P_y*N_1)+1:end),:) = 1;%randomly generate the group 2 units with (1-p_y)
 
-% for N =500
+% for N =30
 N_2 = 30;%second choice of nodes, N = 30
 e_4 = round(density_1*(N_2*(N_2-1))/2);
 for i = 1:times
